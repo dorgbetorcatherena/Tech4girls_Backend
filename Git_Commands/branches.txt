@@ -1,0 +1,2 @@
+Git pull fetches updates from the remote rrepository and merges these updates with the lical repository. 
+It would be used to sync my local repository with the latest changes from the remote.
