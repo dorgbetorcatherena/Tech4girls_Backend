@@ -1,0 +1,3 @@
+To create a new branch- git branch feature-docs
+to switch to new branch- git checkout feature-docs
+publishing the branch to github- git push origin feature-docs
