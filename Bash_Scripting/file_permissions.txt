@@ -1,0 +1,6 @@
+-rw-r-r-: this shows the permissions for the owner,group and others
+1 : this signifies the number of hard links
+userhcsa userhcsa : this shows the owner and group of the file
+70 : denotes the file size in bytes
+Oct 14 10:00 : shows the date and time of the last modification
+script.sh : The file name
