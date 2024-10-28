@@ -1,0 +1,1 @@
+Branching allows for collaboration by enabling multiple versions of a project to exist simultaneously
