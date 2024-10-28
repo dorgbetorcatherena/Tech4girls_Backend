@@ -1,0 +1,7 @@
+bin
+root
+tmp
+etc
+home
+var
+dev
