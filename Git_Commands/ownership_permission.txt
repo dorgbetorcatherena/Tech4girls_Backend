@@ -1,0 +1,5 @@
+1. For each file, it has an owner and a group
+2. Modes- 
+r- read to make a file readable
+w- write to allow modification
+x- execute to make a file executable
