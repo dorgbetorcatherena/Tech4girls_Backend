@@ -1,0 +1,2 @@
+A bash script is a file containing a sequence of commands that can be executed by the bash shell. It automates tasks by executing commands in a specified order.
+To create one; write commands in a text file, save it with a '.sh' extension, and make it executable with chmod +x script_name.sh
